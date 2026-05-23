@@ -4,6 +4,8 @@ One ordinary request — **"add login to my app"** — played out at each of the
 
 > Read the [level chapters](../README.md#the-map) first if you haven't. This is the payoff that ties them together.
 
+**Jump to a level:** [0](../levels/0-vending-machine.md) · [1](../levels/1-conversation.md) · [2](../levels/2-context-engineering.md) · [3](../levels/3-workflow-discipline.md) · [4](../levels/4-quality-gates.md) · [5](../levels/5-orchestration.md) · [6](../levels/6-authorship.md) · [🗺 The Map](../README.md)
+
 ---
 
 ## The task

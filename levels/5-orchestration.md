@@ -2,6 +2,16 @@
 
 > *One assistant, one task, one chat is the slow path. Run a team.*
 
+**Your climb:** [0](0-vending-machine.md) · [1](1-conversation.md) · [2](2-context-engineering.md) · [3](3-workflow-discipline.md) · [4](4-quality-gates.md) · **5** · [6](6-authorship.md)
+
+| At a glance | |
+|---|---|
+| **The trap** | One task, one chat — independent work runs in sequence; chores get done by hand. |
+| **The unlock** | Conduct, don't labor: parallelize, delegate to subagents, automate with hooks and schedules. |
+| **Make it automatic** | Subagents · hooks · `/loop` · scheduled routines · MCP |
+
+---
+
 ## Where most people are
 
 You're genuinely good now: great context, real workflow, quality gates. But you operate the AI like a single craftsperson working one bench. You ask, it works, you wait, you read, you ask again. Independent tasks queue up behind each other. Repetitive chores get done by hand every time. You've hit the ceiling of *one worker doing one thing*.

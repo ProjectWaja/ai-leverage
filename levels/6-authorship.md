@@ -2,6 +2,16 @@
 
 > *Stop consuming AI as it ships. Build the leverage you wish it had.*
 
+**Your climb:** [0](0-vending-machine.md) · [1](1-conversation.md) · [2](2-context-engineering.md) · [3](3-workflow-discipline.md) · [4](4-quality-gates.md) · [5](5-orchestration.md) · **6**
+
+| At a glance | |
+|---|---|
+| **The trap** | Your expertise gets *re-performed* every session; teammates inherit none of it. |
+| **The unlock** | Encode judgment into reusable artifacts: skills, MCP servers, custom agents. |
+| **Make it automatic** | Author skills (SKILL.md) · build MCP · custom agents — *this is what [claude-skillcraft](https://github.com/ProjectWaja/claude-skillcraft) is* |
+
+---
+
 This is the top of the climb, and it's a different kind of activity from everything below. Levels 0–5 are about getting better at *using* the system. Level 6 is about *extending* it — encoding your standards, your domain, and your workflow into tools that apply themselves, every time, for everyone.
 
 ## Where most people are

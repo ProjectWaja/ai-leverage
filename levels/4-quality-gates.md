@@ -2,6 +2,16 @@
 
 > *You shouldn't be the only thing standing between bad output and your codebase.*
 
+**Your climb:** [0](0-vending-machine.md) · [1](1-conversation.md) · [2](2-context-engineering.md) · [3](3-workflow-discipline.md) · **4** · [5](5-orchestration.md) · [6](6-authorship.md)
+
+| At a glance | |
+|---|---|
+| **The trap** | *You* are the single point of failure — the only thing checking the output. |
+| **The unlock** | Encode judgment as gates: self-review, simplify, and a circuit-breaker on debug loops. |
+| **Make it automatic** | skillcraft Tier 2 — `output-guard`, `simplify-code`, `debug-circuit`, `craft-principles` · plus hooks |
+
+---
+
 ## Where most people are
 
 You've got a workflow (Level 3), but you're the single point of failure in it. Every plan, every diff, every "hmm that looks over-complicated," every "you've now tried four variations of the same broken fix" — that's all you, manually, every time. It works until you're tired, rushed, or reviewing the fortieth diff of the day. Then things slip through.

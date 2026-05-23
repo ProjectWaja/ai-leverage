@@ -2,6 +2,16 @@
 
 > *Stop re-explaining your project. Make the context live in the project.*
 
+**Your climb:** [0](0-vending-machine.md) · [1](1-conversation.md) · **2** · [3](3-workflow-discipline.md) · [4](4-quality-gates.md) · [5](5-orchestration.md) · [6](6-authorship.md)
+
+| At a glance | |
+|---|---|
+| **The trap** | Re-typing your stack and pasting the same files at the start of every session. |
+| **The unlock** | Persistent context: a `CLAUDE.md`, live file references, and cross-session memory. |
+| **Make it automatic** | `/init` · `CLAUDE.md` · memory |
+
+---
+
 ## Where most people are
 
 Every new conversation, you re-type the same preamble: "I'm using React with TypeScript, we use tabs not spaces, the API client is in `src/lib/api.ts`, don't use default exports..." Then you paste in two or three files so the model has something to work with. By the time you ask your actual question, you've burned ten minutes and half your patience.

@@ -2,6 +2,16 @@
 
 > *The first answer is a draft, not a delivery.*
 
+**Your climb:** [0](0-vending-machine.md) · **1** · [2](2-context-engineering.md) · [3](3-workflow-discipline.md) · [4](4-quality-gates.md) · [5](5-orchestration.md) · [6](6-authorship.md)
+
+| At a glance | |
+|---|---|
+| **The trap** | Giving up after one bad answer; saying "that's wrong" instead of steering. |
+| **The unlock** | Iterate — feed back the *real* error, front-load context, and steer instead of just rejecting. |
+| **Make it stick** | Pure habit. No tooling required yet. |
+
+---
+
 ## Where most people are
 
 You've realized you can reply. When the code is wrong, you paste the error back and ask it to fix it. This alone puts you ahead of most people — but at Level 1 the conversation is still *reactive*. You're patching one symptom at a time, and you give up if two or three rounds don't converge.

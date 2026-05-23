@@ -2,6 +2,16 @@
 
 > *Process beats vibes. Plan before code, verify after, commit clean.*
 
+**Your climb:** [0](0-vending-machine.md) · [1](1-conversation.md) · [2](2-context-engineering.md) · **3** · [4](4-quality-gates.md) · [5](5-orchestration.md) · [6](6-authorship.md)
+
+| At a glance | |
+|---|---|
+| **The trap** | "Just start coding" — no plan to check against, no verification before "done." |
+| **The unlock** | Plan before code, verify after, commit clean, and resume cleanly across sessions. |
+| **Make it automatic** | skillcraft Tier 1 — `plan-first`, `ship-cycle`, `verify-build`, `clean-commit`, `task-resume` |
+
+---
+
 This is the first level where most people feel a *qualitative* jump — where AI stops being a faster way to write code and starts being a more reliable way to ship it.
 
 ## Where most people are

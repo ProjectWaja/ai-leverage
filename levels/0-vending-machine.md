@@ -2,6 +2,16 @@
 
 > *Put a prompt in. Take an answer out. If it's wrong, the machine is broken.*
 
+**Your climb:** **0** · [1](1-conversation.md) · [2](2-context-engineering.md) · [3](3-workflow-discipline.md) · [4](4-quality-gates.md) · [5](5-orchestration.md) · [6](6-authorship.md)
+
+| At a glance | |
+|---|---|
+| **Where most people are** | One-shot prompt → copy the answer → move on. The conversation ends at the first reply. |
+| **Why it caps you** | A vending machine can't ask what you meant — you get the average answer to a vague question. |
+| **The way up** | Stop treating the first answer as final. → [Level 1: The Conversation](1-conversation.md) |
+
+---
+
 This is the floor. It's where almost everyone starts, and where most people stay without realizing there's anywhere else to go.
 
 ## Where most people are
